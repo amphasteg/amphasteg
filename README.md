@@ -11,3 +11,5 @@ I'm working my way through the K&R book and exercises, but after that I want to 
 If you are interesting in collaborating, I would appreciate you reaching out to me via email. At this moment, I am pretty busy with personal projects and other things in life, so I can't guarantee I will respond or get involved. At the very least, I will check it out.
 ### Contact 📬
 I am not big on using social media. If you want to, you can <a href="mailto:github@zachdnichols.com">email me</a> or message me on Discord. My username is `amphasteg`.
+
+<sub>If you have interest in contributing to any of my repositories, please do not use generative AI.</sub>
