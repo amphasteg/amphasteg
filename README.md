@@ -7,7 +7,7 @@ Trying to learn the C programming language. I am working on a framework for crea
 ### Collaboration
 If you are interesting in collaborating, I would appreciate you reaching out to me via email. At this moment, I am pretty busy with personal projects and other life things, so I can't guarantee I will respond or get involved. At the very least, I will check it out.
 
-### Contact 📬
+### Contact
 I am not big on using social media. If you want to, you can <a href="mailto:github@amphasteg.com">email me</a> or message me on Discord. My username is `amphasteg`.
 
 <sub>If you have interest in contributing to any of my repositories, please do not use generative AI.</sub>
